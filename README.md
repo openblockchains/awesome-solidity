@@ -53,7 +53,7 @@ b2 = Block.next( b1,
         { from: "Vincent",         to: "Max",     what: "Tulip Bloemendaal Sunset",  qty: 2 },
         { from: "Anne",            to: "Martijn", what: "Tulip Semper Augustus",     qty: 2 },
         { from: "Ruben",           to: "Julia",   what: "Tulip Admiral van Eijck",   qty: 2 } )
-....
+...
 ```
 
 resulting in:
