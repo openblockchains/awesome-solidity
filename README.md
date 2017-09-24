@@ -10,22 +10,22 @@ Learn by Example from the Real World (Anno 1683) - Buy! Sell! Hold! Enjoy the Be
 |---------------------|--------------|---------------------------|----:|
 | Dutchgrown (†)      | Vincent      | Tulip Bloemendaal Sunset  |  10 |
 | Keukenhof (†)       | Anne         | Tulip Semper Augustus     |   7 |
-|
+|                     |              |                           |     |
 | Flowers (†)         | Ruben        | Tulip Admiral van Eijck   |   5 |
 | Vicent              | Anne         | Tulip Bloemendaal Sunset  |   3 |
 | Anne                | Julia        | Tulip Semper Augustus     |   1 |
 | Julia               | Luuk         | Tulip Semper Augustus     |   1 |
-|
+|                     |              |                           |     |
 | Bloom & Blossom (†) | Daisy        | Tulip Admiral of Admirals |   8 |
 | Vincent             | Max          | Tulip Bloemendaal Sunset  |   2 |
 | Anne                | Martijn      | Tulip Semper Augustus     |   2 |
 | Ruben               | Julia        | Tulip Admiral van Eijck   |   2 |
-|
-| Teleflora           | Max          | Tulip Red Impression      |  11 |
+|                     |              |                           |     |
+| Teleflora (†)       | Max          | Tulip Red Impression      |  11 |
 | Anne                | Naomi        | Tulip Bloemendaal Sunset  |   1 |
 | Daisy               | Vincent      | Tulip Admiral of Admirals |   3 |
 | Julia               | Mina         | Tulip Admiral van Eijck   |   1 |
-|
+|                     |              |                           |     |
 | Max                 | Isabel       | Tulip Red Impression      |   2 |
 
 (†): Grower Transaction - New Tulips on the Market!
