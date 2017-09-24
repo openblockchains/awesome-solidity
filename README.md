@@ -34,7 +34,8 @@ Learn by Example from the Real World (Anno 1683) - Buy! Sell! Hold! Enjoy the Be
 
 ## Blockchain! Blockchain! Blockchain!
 
-Let's put the tulips on the blockchain! Example:
+Let's put the tulips on the blockchain! Example [`awesome-blockchains/blockchain_with_transactions.rb`](https://github.com/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain_with_transactions.rb):
+
 
 ```ruby
 b0 = Block.first(
@@ -54,8 +55,6 @@ b2 = Block.next( b1,
         { from: "Ruben",           to: "Julia",   what: "Tulip Admiral van Eijck",   qty: 2 } )
 ....
 ```
-(Source: [`awesome-blockchains/blockchain_with_transactions.rb`](https://github.com/openblockchains/awesome-blockchains/blob/master/blockchain.rb/blockchain_with_transactions.rb))
-
 
 resulting in:
 
@@ -95,7 +94,7 @@ resulting in:
 ```
 
 
-## Alternatives.
+## Alternatives
 
 Anyone? Show us your tulips on the blockchain examples!
 
