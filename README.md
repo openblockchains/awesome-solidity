@@ -1,10 +1,10 @@
-# Tulips :tulip::tulip::tulip: on the Blockchain! - Public Distributed (Hyper) Ledger
+# Tulips :tulip::tulip::tulip: on the Blockchain! - Public Distributed (Hyper) Ledger Book
 
 
 Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 
 
-## Transactions (Hyper) Ledger / Book
+## Transactions (Hyper) Ledger Book
 
 | From                | To           | What                      | Qty |
 |---------------------|--------------|---------------------------|----:|
