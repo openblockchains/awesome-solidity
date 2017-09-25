@@ -99,6 +99,10 @@ resulting in:
 Anyone? Show us your tulips on the blockchain examples!
 
 
+## What's a Blockchain?
+
+See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
+
 
 ## License
 
