@@ -1,15 +1,13 @@
 # Tulips :tulip::tulip::tulip: on the Blockchain! - Public Distributed (Hyper) Ledger Book
 
-
-Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
-
-
 > Tulips were introduced into the Netherlands in the 16th century. 
 > These exotic flowers were greatly admired and numerous species were meticulously recorded, 
 > along with their Latin names, in tulip albums. 
 >
 > -- Rijksmuseum, Amsterdam
 
+
+Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 
 
 ## Transactions (Hyper) Ledger Book
