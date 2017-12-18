@@ -110,6 +110,13 @@ Anyone? Show us your tulips on the blockchain examples!
 See the [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains) page for more.
 
 
+## We <3 Tulips, Tulips, Tulips :tulip::tulip::tulip: 
+
+> Tulips never lost their popularity, and growers in the west of Holland
+> have continued to develop new varieties to this very day.
+>
+> -- Rijksmuseum, Amsterdam
+
 ## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
