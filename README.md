@@ -4,6 +4,14 @@
 Learn by Example from the Real World (Anno 1637) - Buy! Sell! Hold! Enjoy the Beauty of Admiral of Admirals, Semper Augustus and More.
 
 
+> Tulips were introduced into the Netherlands in the 16th century. 
+> These exotic flowers were greatly admired and numerous species were meticulously recorded, 
+> along with their Latin names, in tulip albums. 
+>
+> -- Rijksmuseum, Amsterdam
+
+
+
 ## Transactions (Hyper) Ledger Book
 
 | From                | To           | What                      | Qty |
