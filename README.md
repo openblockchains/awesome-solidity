@@ -35,9 +35,17 @@ Learn X in Y Minutes (Where X=Solidity) @ <https://learnxinyminutes.com/docs/sol
 
 ###  Higher-Level
 
+**Fe** - the syntax is inspired by Python and Rust. It is easy to learn, even for those who have never dealt with the ethereum virtual machine (evm) before; designed to be safe and equipped with the tooling needed to validate contracts; uses the same intermediate language as Solidity (YUL), making it a great choice not only for the ethereum mainnet, but also for (upcoming) layer two chains.
+
+- web @ <https://fe-lang.org>
+- docs @ <https://fe-lang.org/docs>
+- source @ <https://github.com/ethereum/fe>
 
 **Vyper** - a more recently developed language, similar to Serpent and again with Python-like syntax. 
 Intended to get closer to a pure-functional Python-like language than Serpent, but not to replace Serpent.
+
+- docs @ <https://vyper.readthedocs.io>
+- source @ <https://github.com/vyperlang>
 
 **Secure Ruby / Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby (sruby / s6 ruby)** - the ruby programming language for contract / transaction scripts on the blockchain world cmputer - yes, it's just ruby; see the [**red paper »**](https://github.com/s6ruby/redpaper)
 
@@ -82,6 +90,12 @@ _Historic_
 
 **LLL** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for 
 ethereum contracts but is rarely used today.
+
+
+### More / Misc
+
+
+
 
 
 
