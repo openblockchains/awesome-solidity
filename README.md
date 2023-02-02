@@ -1,10 +1,7 @@
 # Awesome Solidity (Contract) Programming Language & Tools
 
 
-
 ## What's News?
-
-_Thanks to Week in Ethereum - Stuff For (Solidity) Developers_
 
 For weekly updates - see [**NEWS »**](NEWS.md)
 
