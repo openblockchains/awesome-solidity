@@ -9,8 +9,11 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/
 
 EIPs/Standards
 - [ERC6366](https://github.com/ethereum/EIPs/pull/6366/files): Permission token
+  - Description: A new token that held the permission of an address in an ecosystem
   - Abstract: This EIP offers an alternative to Access Control Lists (ACLs) for granting authorization and enhancing security. Each permission is represented by a single bit in `uint256` from which we can defined up to `256` permissions and `2²⁵⁶` roles. This approach use bitwise operator and bitmask to determine the access right which is much more efficient and flexible than `string` comparison or `keccak()`. We are able to specify the importance of permission based on the bit order.
 - [ERC6372](https://eips.ethereum.org/EIPS/eip-6372): Contract clock
+  - Description: An interface for exposing a contract's clock value and details
+  - Abstract: Many contracts rely on some clock for enforcing delays and storing historical data. While some contracts rely on block numbers, others use timestamps. There is currently no easy way to discover which time-tracking function a contract internally uses. This EIP proposes to standardize an interface for contracts to expose their internal clock and thus improve composability and interoperability.
 - [ERC6381](https://github.com/ethereum/EIPs/pull/6381/files): Emotable extension for non-fungible tokens (NFT)s
 - [EIP6384](https://github.com/ethereum/EIPs/pull/6384/files): Humanly readable offline signatures
 
