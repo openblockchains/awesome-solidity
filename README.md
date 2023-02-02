@@ -3,7 +3,10 @@
 
 ## What's News?
 
-For weekly updates - see [**NEWS »**](NEWS.md)
+For weekly solidity (contract) programming "dev stuff" updates - see [**NEWS »**](NEWS.md)
+
+
+Bonus: For weekly ethereum improvement proposal (eip) updates - see [**ETHEREUM »**](ETHEREUM.md)
 
 
 

@@ -1,5 +1,10 @@
 # Awesome Solidity - What's News?
 
+Weekly solidity (contract) programming "dev stuff" updates.
+
+
+Bonus: For weekly ethereum improvement proposal (eip) updates - see [**ETHEREUM »**](ETHEREUM.md)
+
 
 <!--
 https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/
@@ -7,22 +12,6 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/
 
 ## Week 04/2023 - Monday, January 22th to Sunday, January 29th
 
-EIPs/Standards
-- [ERC6366](https://github.com/ethereum/EIPs/pull/6366/files): Permission token
-  - Description: A new token that held the permission of an address in an ecosystem
-  - Abstract: This EIP offers an alternative to Access Control Lists (ACLs) for granting authorization and enhancing security. Each permission is represented by a single bit in `uint256` from which we can defined up to `256` permissions and `2²⁵⁶` roles. This approach use bitwise operator and bitmask to determine the access right which is much more efficient and flexible than `string` comparison or `keccak()`. We are able to specify the importance of permission based on the bit order.
-- [ERC6372](https://eips.ethereum.org/EIPS/eip-6372): Contract clock
-  - Description: An interface for exposing a contract's clock value and details
-  - Abstract: Many contracts rely on some clock for enforcing delays and storing historical data. While some contracts rely on block numbers, others use timestamps. There is currently no easy way to discover which time-tracking function a contract internally uses. This EIP proposes to standardize an interface for contracts to expose their internal clock and thus improve composability and interoperability.
-- [ERC6381](https://github.com/ethereum/EIPs/pull/6381/files): Emotable extension for non-fungible tokens (NFT)s
-  - Description: An interface for Non-Fungible Tokens extension allowing for reacting to them using Unicode emojis.
-  - Abstract: The Emotable Extension for Non-Fungible Tokens standard extends EIP-721 by allowing NFTs to be emoted at. This proposal introduces the ability to react to NFTs using Unicode standardized emoji.
-- [EIP6384](https://github.com/ethereum/EIPs/pull/6384/files): Humanly readable offline signatures
-  - Description: A method for retrieving a human-readable description of EIP-712 typed and structured data.
-  - Abstract: This EIP introduces the `evalEIP712Buffer` function, which takes an EIP-712 buffer and returns a human-readable text description.
-
-
-Dev Stuff
 
 - Foundry:
   - ChugSplash [Foundry](https://github.com/chugsplash/chugsplash-foundry#readme): deploy & manage upgradeable contracts, upgrade OpenZeppelin Transparent proxies, supports mainnet & Optimism
@@ -46,16 +35,6 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-21-2023/
 
 ## Week 03/2023 - Monday, January 16th to Sunday, January 21st
 
-EIPs/Standards
-
-- [ERC6299](https://github.com/ethereum/EIPs/pull/6299/files): Lockable tokens
-- [ERC6315](https://github.com/ethereum/EIPs/pull/6315/files): ERC2771 Account Abstraction
-- [ERC6327](https://github.com/ethereum/EIPs/pull/6327/files): Elastic signature
-- [ERC6353](https://github.com/ethereum/EIPs/pull/6353/files): Charity token
-- [ERC6357](https://github.com/ethereum/EIPs/pull/6357/files): Single-contract Multicall
-- [ERC6358](https://github.com/ethereum/EIPs/pull/6358/files): Omniverse DLT
-
-Dev Stuff
 
 - Foundry:
   - Foundry [best practices](https://twitter.com/msolomon44/status/1616072891820539904)
@@ -78,11 +57,6 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-14-2023/
 
 ## Week 02/2023 - Monday, January 9th to Sunday, January 15th
 
-EIPs/Standards
-
-- [ERC6150](https://github.com/keeganlee/EIPs/blob/80571ca99550c576c807a5ba50ccf25e27f9f21e/EIPS/eip-6150.md): Hierarchical non-fungible tokens (NFT)s
-
-Dev Stuff
 
 - Hardhat and Foundry plugin [v1](https://github.com/NomicFoundation/hardhat/releases/tag/%40nomicfoundation/hardhat-foundry%401.0.0)
 - Foundry toolchain now [caches RPC calls in CI flows](https://github.com/foundry-rs/foundry-toolchain)
@@ -101,18 +75,6 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-7-2023/
 
 ## Week 01/2023 - Monday, January 2nd to Sunday, January 8th
 
-EIPs/Standards
-
-- [EIP6212](https://github.com/ethereum/EIPs/pull/6260/files): Buyable non-fungible tokens (NFTs) on-chain and royalties
-  - description: Allowing tokens to be buyable and enforce royalties directly on-Chain
-  - requires: 721
--  [EIP6268](https://github.com/ethereum/EIPs/pull/6268/files): Non transferability indicator for ERC1155
-  - description: An extension of EIP-1155 for indicating the transferability of the token.
-  - requires: 165, 1155
--  [EIP6269](https://github.com/ethereum/EIPs/pull/6269/files): Full EVM equivalence
-  - description: Canonicalise the definition of Full EVM Equivalence
-
-Dev Stuff
 
 - [Solidity compiler appends encoded IPFS hash of contract metadata](https://mirror.xyz/joenrv.eth/DdbK6GR-CkeYxHoU8sKl0AFYbGeQwZcvCM5Qvzipr0g) to bytecode for verification
 - Guide to [using PrevRandao](https://soliditydeveloper.com/prevrandao)
@@ -137,16 +99,6 @@ https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/
 
 ## Week 52/2022 - Monday, December 26th to Sunday, January 1st 2023
 
-EIPs/Standards
-
-- [EIP6220](https://github.com/ethereum/EIPs/pull/6220/files): Composable NFTs utilizing equipable parts
-- [EIP6224](https://github.com/ethereum/EIPs/pull/6224/files): Contracts registry the dependency injector
-- [EIP6228](https://github.com/ethereum/EIPs/pull/6228/files): Extreme ЕRС20, meta-transaction token (MTT)
-- [EIP6229](https://github.com/ethereum/EIPs/pull/6229/files): Tokenized vaults with lock-in period
-- [EIP6239](https://github.com/ethereum/EIPs/pull/6239/files): Semantic soulbound tokens
-
-
-Dev Stuff
 
 - Foundry [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel#readme): Solidity REPL
 - [Etherscan contract verification API](https://twitter.com/etherscan/status/1608796718677753858) adds failure message
@@ -159,6 +111,7 @@ Dev Stuff
 - [Noble-curves](https://github.com/paulmillr/noble-curves#readme): elliptic curves in JavaScript, zero-dependencies
 - Wagmi (React hooks) [v0.10.0](https://github.com/wagmi-dev/wagmi/releases/tag/wagmi%400.10.0): WalletConnect v2 support and useWatchPendingTransactions hook
 - [ENS Profile API](https://blog.indexing.co/posts/6xGR3GSQ2lY5Lpo0WRWJlqMutSt241RxdOsDg_ABXRo): access via GraphQL
+
 
 
 
