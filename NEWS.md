@@ -19,7 +19,7 @@ EIPs/Standards
   - Abstract: The Emotable Extension for Non-Fungible Tokens standard extends EIP-721 by allowing NFTs to be emoted at. This proposal introduces the ability to react to NFTs using Unicode standardized emoji.
 - [EIP6384](https://github.com/ethereum/EIPs/pull/6384/files): Humanly readable offline signatures
   - Description: A method for retrieving a human-readable description of EIP-712 typed and structured data.
-  - Abstract: This EIP introduces the `evalEIP712Buffer` function, which takes an [EIP-712](./eip-712.md) buffer and returns a human-readable text description.
+  - Abstract: This EIP introduces the `evalEIP712Buffer` function, which takes an EIP-712 buffer and returns a human-readable text description.
 
 
 Dev Stuff
