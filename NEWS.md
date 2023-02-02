@@ -15,7 +15,11 @@ EIPs/Standards
   - Description: An interface for exposing a contract's clock value and details
   - Abstract: Many contracts rely on some clock for enforcing delays and storing historical data. While some contracts rely on block numbers, others use timestamps. There is currently no easy way to discover which time-tracking function a contract internally uses. This EIP proposes to standardize an interface for contracts to expose their internal clock and thus improve composability and interoperability.
 - [ERC6381](https://github.com/ethereum/EIPs/pull/6381/files): Emotable extension for non-fungible tokens (NFT)s
+  - Description: An interface for Non-Fungible Tokens extension allowing for reacting to them using Unicode emojis.
+  - Abstract: The Emotable Extension for Non-Fungible Tokens standard extends EIP-721 by allowing NFTs to be emoted at. This proposal introduces the ability to react to NFTs using Unicode standardized emoji.
 - [EIP6384](https://github.com/ethereum/EIPs/pull/6384/files): Humanly readable offline signatures
+  - Description: A method for retrieving a human-readable description of EIP-712 typed and structured data.
+  - Abstract: This EIP introduces the `evalEIP712Buffer` function, which takes an [EIP-712](./eip-712.md) buffer and returns a human-readable text description.
 
 
 Dev Stuff
