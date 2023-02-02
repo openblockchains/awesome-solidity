@@ -1,12 +1,11 @@
-# Awesome Solidity News - What's News?
+# Awesome Solidity - What's News?
 
 
 <!--
 https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/
 -->
 
-## Week 04/2023
-_Monday, January 22th to Sunday, January 29th_
+## Week 04/2023 - Monday, January 22th to Sunday, January 29th
 
 EIPs/Standards
 - [ERC6366](https://github.com/ethereum/EIPs/pull/6366/files): Permission token
@@ -37,8 +36,7 @@ Dev Stuff
 https://weekinethereumnews.com/week-in-ethereum-news-january-21-2023/
 -->
 
-## Week 03/2023
-_Monday, January 16th to Sunday, January 21st_
+## Week 03/2023 - Monday, January 16th to Sunday, January 21st
 
 EIPs/Standards
 
@@ -70,8 +68,7 @@ https://weekinethereumnews.com/week-in-ethereum-news-january-14-2023.html/
 -->
 
 
-## Week 02/2023
-_Monday, January 9th to Sunday, January 15th_
+## Week 02/2023 - Monday, January 9th to Sunday, January 15th
 
 EIPs/Standards
 
@@ -91,55 +88,40 @@ Dev Stuff
 
 
 
-## Week 01/2023
-_Monday, January 2nd to Sunday, January 8th_
+## Week 01/2023 - Monday, January 2nd to Sunday, January 8th
 
 
-## Week 52/2022
-_Monday, December 26th to Sunday, January 1st 2023_
+## Week 52/2022 - Monday, December 26th to Sunday, January 1st 2023
 
 
-## Week 51/2022
-_Monday, December 19th to Sunday, December 25th_
+## Week 51/2022 - Monday, December 19th to Sunday, December 25th
 
 
-## Week 50/2022
-_Monday, December 12th to Sunday, December 18th_
+## Week 50/2022 - Monday, December 12th to Sunday, December 18th
 
 
-## Week 49/2022
-_Monday, December 5th to Sunday, December 11th_
+## Week 49/2022 - Monday, December 5th to Sunday, December 11th
 
 
-## Week 48/2022
-_Monday, November 28th to Sunday, December 4th_
+## Week 48/2022 - Monday, November 28th to Sunday, December 4th
 
 
-## Week 47/2022
-_Monday, November 21st to Sunday, November 27th_
+## Week 47/2022 - Monday, November 21st to Sunday, November 27th
 
 
-## Week 46/2022
-_Monday, November 14th to Sunday, November 20th_
+## Week 46/2022 - Monday, November 14th to Sunday, November 20th
 
 
-## Week 45/2022
-_Monday, November 7th to Sunday, November 13rd_
+## Week 45/2022 -  Monday, November 7th to Sunday, November 13rd
 
 
-## Week 44/2022
-_Monday, October 31st to Sunday, November 6th_
+## Week 44/2022 - Monday, October 31st to Sunday, November 6th
 
 
-## Week 43/2022
-_Monday, October 24th to Sunday, October 30th_
+## Week 43/2022 - Monday, October 24th to Sunday, October 30th
 
 
-
-## Week 42/2022
-_Monday, October 17th to Sunday, October 23rd_
-
-
+## Week 42/2022 - Monday, October 17th to Sunday, October 23rd
 
 
 
