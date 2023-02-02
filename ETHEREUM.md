@@ -50,9 +50,9 @@ updates - see [**NEWS »**](NEWS.md)
 
 - [EIP6212](https://github.com/ethereum/EIPs/pull/6260/files): Buyable non-fungible tokens (NFTs) on-chain and royalties
   - Description: Allowing tokens to be buyable and enforce royalties directly on-Chain
--  [EIP6268](https://github.com/ethereum/EIPs/pull/6268/files): Non transferability indicator for ERC1155
+- [EIP6268](https://github.com/ethereum/EIPs/pull/6268/files): Non transferability indicator for ERC1155
   - Description: An extension of EIP-1155 for indicating the transferability of the token.
--  [EIP6269](https://github.com/ethereum/EIPs/pull/6269/files): Full EVM equivalence
+- [EIP6269](https://github.com/ethereum/EIPs/pull/6269/files): Full EVM equivalence
   - Description: Canonicalise the definition of Full EVM Equivalence
 
 
