@@ -82,7 +82,7 @@ _Historic_
 - docs @ <https://docs.soliditylang.org/en/latest/yul.html>
 
 
-**Huff** - a low level assembly language for the ethereum virtual machine (evm)
+**Huff** - a low level "itermediate" assembly language for the ethereum virtual machine (evm)
 
 -  web @ <https://huff.sh>
 -  docs @ <https://docs.huff.sh>
@@ -91,8 +91,7 @@ _Historic_
 
 _Historic_
 
-**Low-level Lisp-like Language (LLL)** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for 
-ethereum contracts but is rarely used today.
+**Low-level Lisp-like Language / Lisp Like Language (LLL)** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for ethereum contracts.
 
 - docs @ <https://lll-docs.readthedocs.io>
 
