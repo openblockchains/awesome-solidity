@@ -2,16 +2,32 @@
 
 
 
-## News - What's News?
+## What's News?
 
-For weekly updates (thanks to Week in Ethereum - Stuff For (Solidity) Developers) - see [**NEWS »](NEWS.md)
+_Thanks to Week in Ethereum - Stuff For (Solidity) Developers_
 
+For weekly updates - see [**NEWS »**](NEWS.md)
 
 
 
 ## New to Solidity?
 
+_Official_
 
+Solidity Language @ <https://soliditylang.org>
+
+- Read the Docs @ <https://docs.soliditylang.org/en/latest/>
+- Blog @  <https://blog.soliditylang.org>
+- Forum @ <https://forum.soliditylang.org>
+- Source @ <https://github.com/ethereum/solidity>
+
+<!-- break -->
+
+_More_
+
+Solidity by Example @ <https://solidity-by-example.org>
+
+Learn X in Y Minutes (Where X=Solidity) @ <https://learnxinyminutes.com/docs/solidity>
 
 
 
