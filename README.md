@@ -60,8 +60,11 @@ _Historic_
 
 **Serpent** - a procedural (imperative) programming language with a syntax similar to Python. Can also be used to write functional (declarative) code, though it is not entirely free of side effects.
 
+- source @ <https://github.com/ethereum/serpent>
+
 **Bamboo** - a language influenced by Erlang, with explicit state transitions and without iterative flows (loops). Intended to reduce side effects and increase auditability. 
 
+- source @ <https://github.com/pirapira/bamboo>
 
 
 ###  Low-Level ("Assembly-Like")
@@ -88,8 +91,11 @@ _Historic_
 
 _Historic_
 
-**LLL** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for 
+**Low-level Lisp-like Language (LLL)** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for 
 ethereum contracts but is rarely used today.
+
+- docs @ <https://lll-docs.readthedocs.io>
+
 
 
 ### More / Misc
