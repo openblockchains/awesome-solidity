@@ -94,17 +94,32 @@ ethereum contracts but is rarely used today.
 
 ### More / Misc
 
+**Cairo** - a STARK-based turing-complete language for writing provable programs on blockchain.
+
+- web @ <https://www.cairo-lang.org>
+- docs @ <https://www.cairo-lang.org/docs>
+- source @  <https://github.com/starkware-libs/cairo-lang>
 
 
 
 
-
-## Contract (Source) Verfication Tools & Services
+## Contract (Source Code) Verfication Tools & Services
 
 ### Sourcify
 
+> Sourcify enables transparent and human-readable smart contract interactions through automated Solidity contract verification, 
+> contract metadata, and NatSpec comments.
 
-### Etherscan Verify
+- web @ <https://sourcify.dev>
+- docs @ <https://docs.sourcify.dev>
+- source @ <https://github.com/ethereum/sourcify>
+
+
+
+### Etherscan Verify (& Publish Contract Source Code)
+
+- docs @ <https://etherscan.io/verifyContract>
+
 
 
 
