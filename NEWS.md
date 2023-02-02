@@ -64,7 +64,7 @@ Dev Stuff
 
 
 <!--
-https://weekinethereumnews.com/week-in-ethereum-news-january-14-2023.html/
+https://weekinethereumnews.com/week-in-ethereum-news-january-14-2023/
 -->
 
 
@@ -87,14 +87,79 @@ Dev Stuff
 
 
 
+<!--
+https://weekinethereumnews.com/week-in-ethereum-news-january-7-2023/
+ -->
 
 ## Week 01/2023 - Monday, January 2nd to Sunday, January 8th
 
+EIPs/Standards
+
+- [EIP6212](https://github.com/ethereum/EIPs/pull/6260/files): Buyable non-fungible tokens (NFTs) on-chain and royalties
+  - description: Allowing tokens to be buyable and enforce royalties directly on-Chain
+  - requires: 721
+-  [EIP6268](https://github.com/ethereum/EIPs/pull/6268/files): Non transferability indicator for ERC1155
+  - description: An extension of EIP-1155 for indicating the transferability of the token.
+  - requires: 165, 1155
+-  [EIP6269](https://github.com/ethereum/EIPs/pull/6269/files): Full EVM equivalence
+  - description: Canonicalise the definition of Full EVM Equivalence
+
+Dev Stuff
+
+- [Solidity compiler appends encoded IPFS hash of contract metadata](https://mirror.xyz/joenrv.eth/DdbK6GR-CkeYxHoU8sKl0AFYbGeQwZcvCM5Qvzipr0g) to bytecode for verification
+- Guide to [using PrevRandao](https://soliditydeveloper.com/prevrandao)
+- Paul Berg: [Solidity supports functions as parameters](https://twitter.com/paulrberg/status/1609917508223475712), useful in testing e.g. [Seaport](https://github.com/ProjectOpenSea/seaport/blob/1.2/test/foundry/FulfillOrderTest.t.sol#L64-L71)
+- [EVM quirks](https://twitter.com/jtriley_eth/status/1609216690147020803) and how they are handled in Solidity & Vyper
+- [Setup remixd](https://jamesbachini.com/remixd-tutorial/) to use Remix with local filesystem
+- Capture the Flag (CTFs):
+  - [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/), uses Hardhat
+  - Making of [HappyNewYear CTF](https://mirror.xyz/vicnaum.eth/reNCgNs7e0rDNx7h8Yt0a9xbS7wFss4950Dl8tYr2kY)
+  - Damn Vulnerable DeFi [backdoor solution](https://stermi.xyz/blog/damn-vulnerable-defi-challenge-11-solution-backdoor)
+  - [Shop puzzle](https://twitter.com/0xCygaar/status/1610114831000170496) & solution
+  - Secureum bootcamp [race-13 quiz solution](https://ventral.digital/posts/2023/1/3/race-13-of-the-secureum-bootcamp-epoch)
+- [TurboETH](https://twitter.com/KamesGeraghty/status/1609872647965261825): dapp build system, app template, ERC20 & ERC721 components & hooks, beta
+- Use TrueBlocks to [find all contracts created by an address](https://tjayrush.medium.com/recipe-factories-ce78fa4c5f5b)
+- [Guide to equivalence checking](https://www.truscova.com/blog_article_2.php) Solidity functionality with a reference implementation using Z3 theorem prover
+- [UniRep protocol](https://mirror.xyz/privacy-scaling-explorations.eth/FCVVfy-TQ6R7_wavKj1lCr5dd1zqRvwjnDOYRM5NtsE): private & non-repudiable reputation system
+
+
+<!--
+https://weekinethereumnews.com/week-in-ethereum-news-december-31-2022/
+-->
 
 ## Week 52/2022 - Monday, December 26th to Sunday, January 1st 2023
 
+EIPs/Standards
+
+- [EIP6220](https://github.com/ethereum/EIPs/pull/6220/files): Composable NFTs utilizing equipable parts
+- [EIP6224](https://github.com/ethereum/EIPs/pull/6224/files): Contracts registry the dependency injector
+- [EIP6228](https://github.com/ethereum/EIPs/pull/6228/files): Extreme ЕRС20, meta-transaction token (MTT)
+- [EIP6229](https://github.com/ethereum/EIPs/pull/6229/files): Tokenized vaults with lock-in period
+- [EIP6239](https://github.com/ethereum/EIPs/pull/6239/files): Semantic soulbound tokens
+
+
+Dev Stuff
+
+- Foundry [Chisel](https://github.com/foundry-rs/foundry/tree/master/chisel#readme): Solidity REPL
+- [Etherscan contract verification API](https://twitter.com/etherscan/status/1608796718677753858) adds failure message
+- [Uniswap poor oracle](https://github.com/timeless-fi/uniswap-poor-oracle#readme): flash loan proof Uniswap v3 price-out-of-range oracle
+- [Norswap on ERC2535 (Diamonds)](https://twitter.com/norswap/status/1607425088491753472): only use to circumvent contract size limitations
+- [Fallback](https://github.com/nathanhleung/fallback#readme): create web apps in Solidity, proof of concept
+- [Huff-immutables](https://github.com/vicnaum/huff-immutables#readme): constructor-initialized immutables in Huff
+- VSCode Solidity Inspector [v0.0.3](https://github.com/PraneshASP/vscode-solidity-inspector/releases/tag/v0.0.3): view contract storage layout
+- Understanding [EVM instruction boundaries](https://mirror.xyz/vicnaum.eth/zJX21EV6bjrPcL_8fnI-0zoChvBw-ZscbL7S7inroro) plus an [EVM regex decompiler](https://gist.github.com/vicnaum/492d9ccfb66dc0f50b1fd8f99239f6a7) (Perl compatible regex)
+- [Noble-curves](https://github.com/paulmillr/noble-curves#readme): elliptic curves in JavaScript, zero-dependencies
+- Wagmi (React hooks) [v0.10.0](https://github.com/wagmi-dev/wagmi/releases/tag/wagmi%400.10.0): WalletConnect v2 support and useWatchPendingTransactions hook
+- [ENS Profile API](https://blog.indexing.co/posts/6xGR3GSQ2lY5Lpo0WRWJlqMutSt241RxdOsDg_ABXRo): access via GraphQL
+
+
+
+<!--
+https://weekinethereumnews.com/week-in-ethereum-news-december-24-2022/
+-->
 
 ## Week 51/2022 - Monday, December 19th to Sunday, December 25th
+
 
 
 ## Week 50/2022 - Monday, December 12th to Sunday, December 18th
