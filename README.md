@@ -41,6 +41,8 @@ Intended to get closer to a pure-functional Python-like language than Serpent, b
 
 **Secure Ruby / Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby (sruby / s6 ruby)** - the ruby programming language for contract / transaction scripts on the blockchain world cmputer - yes, it's just ruby; see the [**red paper »**](https://github.com/s6ruby/redpaper)
 
+- source @ <https://github.com/s6ruby>
+- talks  @ <https://github.com/geraldb/talks/blob/master/contracts.md> - Code Your Own (Crypto Blockchain) Contracts w/ Ruby (sruby), Universum & Co
 
 _Historic_
 
@@ -54,7 +56,23 @@ _Historic_
 
 **YUL** - official "intermediate" assembly language for the ethereum virtual machine (evm)
 
+
+> Yul (previously also called JULIA or IULIA) is an intermediate language that can be compiled to bytecode for different backends.
+>
+> It can be used in stand-alone mode and for "inline assembly" inside Solidity. 
+> The compiler uses Yul as an intermediate language in the IR-based code generator 
+> ("new codegen" or "IR-based codegen"). 
+> Yul is a good target for high-level optimisation stages that can benefit all target platforms equally.
+
+- docs @ <https://docs.soliditylang.org/en/latest/yul.html>
+
+
 **Huff** - a low level assembly language for the ethereum virtual machine (evm)
+
+-  web @ <https://huff.sh>
+-  docs @ <https://docs.huff.sh>
+- source @ <https://github.com/huff-language>
+
 
 _Historic_
 
