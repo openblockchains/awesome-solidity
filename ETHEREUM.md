@@ -67,41 +67,6 @@ updates - see [**NEWS »**](NEWS.md)
 - [EIP6239](https://github.com/ethereum/EIPs/pull/6239/files): Semantic soulbound tokens
 
 
-## Week 51/2022 - Monday, December 19th to Sunday, December 25th
-
-
-
-## Week 50/2022 - Monday, December 12th to Sunday, December 18th
-
-
-## Week 49/2022 - Monday, December 5th to Sunday, December 11th
-
-
-## Week 48/2022 - Monday, November 28th to Sunday, December 4th
-
-
-## Week 47/2022 - Monday, November 21st to Sunday, November 27th
-
-
-## Week 46/2022 - Monday, November 14th to Sunday, November 20th
-
-
-## Week 45/2022 -  Monday, November 7th to Sunday, November 13rd
-
-
-## Week 44/2022 - Monday, October 31st to Sunday, November 6th
-
-
-## Week 43/2022 - Monday, October 24th to Sunday, October 30th
-
-
-## Week 42/2022 - Monday, October 17th to Sunday, October 23rd
-
-
-
-
-
-
 
 ## Sources
 
