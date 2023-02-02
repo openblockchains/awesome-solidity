@@ -49,6 +49,7 @@ Learn X in Y Minutes (Where X=Solidity) @ <https://learnxinyminutes.com/docs/sol
 ## Application Binary Interface (ABI) Specs, Tests, Tools & Services
 
 
+### (Method) Signature Databases / Lookups
 
 
 
