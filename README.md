@@ -46,7 +46,7 @@ Learn X in Y Minutes (Where X=Solidity) @ <https://learnxinyminutes.com/docs/sol
 
 
 
-## Application Binary Inteface (ABI) Specs, Tests, Tools & Services
+## Application Binary Interface (ABI) Specs, Tests, Tools & Services
 
 
 
