@@ -42,7 +42,11 @@ Intended to get closer to a pure-functional Python-like language than Serpent, b
 **Secure Ruby / Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby (sruby / s6 ruby)** - the ruby programming language for contract / transaction scripts on the blockchain world cmputer - yes, it's just ruby; see the [**red paper »**](https://github.com/s6ruby/redpaper)
 
 - source @ <https://github.com/s6ruby>
-- talks  @ <https://github.com/geraldb/talks/blob/master/contracts.md> - Code Your Own (Crypto Blockchain) Contracts w/ Ruby (sruby), Universum & Co
+- talks  
+  - Code Your Own (Crypto Blockchain) Contracts w/ Ruby (sruby), Universum & Co @ <https://github.com/geraldb/talks/blob/master/contracts.md> 
+
+
+<!-- break -->
 
 _Historic_
 
