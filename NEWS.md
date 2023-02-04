@@ -7,6 +7,31 @@ Bonus: For weekly ethereum improvement proposal (eip) updates - see [**ETHEREUM 
 
 
 <!--
+https://weekinethereumnews.com/week-in-ethereum-news-february-4-2023/
+-->
+
+## Week 05/2023 - Monday, January 30th to Sunday, February 5th
+
+
+- Solidity [v0.8.18](https://blog.soliditylang.org/2023/02/01/solidity-0.8.18-release-announcement/): Paris default EVM version, adds block.prevrandao & deprecates block.difficulty, adds flag to not append CBOR metadata, deprecates selfdestruct and improves bytecode generation from Yul
+- [Codeslaw](https://www.codeslaw.app/): search verified contracts
+- [ERC721X](https://github.com/indeliblelabs/contracts/blob/main/src/contracts/extensions/ERC721X.sol): ERC721 extension to auto expire transfer approvals after 30 days
+- Guide [to libraries in Solidity](https://medium.com/@MarqyMarq/deep-dive-into-solidity-libraries-e9bd7f9061fb)
+- Ape [v0.6.0](https://twitter.com/apeframework/status/1620843786497847296) (Python contract framework): beta support for Multicall3, adds per-function encode/decode methods and run scripts in nested subdirectories
+- MatchboxDAO's 0xMonaco race entries: [first](https://github.com/marktoda/monaco), [second](https://typefully.com/gretzke/DTU1xJn), [third](https://twitter.com/NotDeGhost/status/1619845952998887424) & [disqualified bug exploiter](https://twitter.com/zellic_io/status/1620844495226179586)
+- Secureum RACE #14: [8 question Solidity quiz & answers](https://ventral.digital/posts/2023/1/30/race-14-of-the-secureum-bootcamp-epoch-infinity)
+- Capture the Flag (CTF) solutions using Ape & Vyper: [Ethernaut](https://github.com/0xJCN/Ethernaut-CTF), [Damn vulnerable DeFi](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) & [EthernautDAO](https://github.com/0xJCN/EthernautDAO-Challenges)
+- [Guide to using SMTChecker](https://www.truscova.com/blog_article_5.php) with Hardhat
+- [Halmos](https://github.com/a16z/halmos#readme): symbolic testing reusing Foundry tests for formal verification
+- [Wagmi CLI](https://twitter.com/wagmi_sh/status/1620097176738357248) (React hooks): generate code, connect to Foundry/Hardhat projects & create plugins
+- [Universal bridge](https://github.com/ZeframLou/universal-bridge#readme): common interface to send a message to a supported network using official bridges
+- [zkLLVM compiler](https://blog.nil.foundation/2023/02/02/circuit-compiler.html): circuit compiler for languages such as C/C++
+- [Spartan-ecdsa](https://personaelabs.org/posts/spartan-ecdsa/): verify secp256k1 ECDSA signatures in zk, proofs in browser in 5 seconds
+- [In-browser recursive proving & verification](https://twitter.com/nibnalin/status/1621059453570412544) added to Nova & Nova Scotia
+
+
+
+<!--
 https://weekinethereumnews.com/week-in-ethereum-news-january-28-2023/
 -->
 
