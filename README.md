@@ -47,7 +47,7 @@ Intended to get closer to a pure-functional Python-like language than Serpent, b
 - docs @ <https://vyper.readthedocs.io>
 - source @ <https://github.com/vyperlang>
 
-**Secure Ruby / Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby (sruby / s6 ruby)** - the ruby programming language for contract / transaction scripts on the blockchain world cmputer - yes, it's just ruby; see the [**red paper »**](https://github.com/s6ruby/redpaper)
+**Secure Ruby / Small, Smart, Secure, Safe, Solid & Sound (S6) Ruby (sruby / s6 ruby)** - the ruby programming language for contract / transaction scripts on the blockchain world computer - yes, it's just ruby; see the [**red paper »**](https://github.com/s6ruby/redpaper)
 
 - source @ <https://github.com/s6ruby>
 - talks  
@@ -82,7 +82,7 @@ _Historic_
 - docs @ <https://docs.soliditylang.org/en/latest/yul.html>
 
 
-**Huff** - a low level "itermediate" assembly language for the ethereum virtual machine (evm)
+**Huff** - a low level "intermediate" assembly language for the ethereum virtual machine (evm)
 
 -  web @ <https://huff.sh>
 -  docs @ <https://docs.huff.sh>
@@ -91,7 +91,7 @@ _Historic_
 
 _Historic_
 
-**Low-level Lisp-like Language / Lisp Like Language (LLL)** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "itermediate" assembly language for ethereum contracts.
+**Low-level Lisp-like Language / Lisp Like Language (LLL)** - a functional (declarative) programming language, with Lisp-like syntax. It was the first "intermediate" assembly language for ethereum contracts.
 
 - docs @ <https://lll-docs.readthedocs.io>
 
@@ -108,7 +108,7 @@ _Historic_
 
 
 
-## Contract (Source Code) Verfication Tools & Services
+## Contract (Source Code) Verification Tools & Services
 
 ### Sourcify
 
@@ -150,7 +150,7 @@ _Historic_
 _A curated list of more awesome lists._
 
 
-- [**Awesome Solidity**](https://github.com/bkrem/awesome-solidity) by Ben Kremer  - a sorted a-to-z lists of soldity goodies
+- [**Awesome Solidity**](https://github.com/bkrem/awesome-solidity) by Ben Kremer  - a sorted a-to-z lists of solidity goodies
 
 
 
