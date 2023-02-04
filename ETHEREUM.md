@@ -9,6 +9,14 @@ updates - see [**NEWS »**](NEWS.md)
 
 
 
+## Week 05/2023 - Monday, January 30th to Sunday, February 5th
+
+
+- Tim Beiko's proposal to fork [ERCs from EIPs repository](https://ethereum-magicians.org/t/proposal-forking-ercs-from-eips-repository/12804)
+- [EIP6404](https://github.com/ethereum/EIPs/pull/6404/files): SSZ transactions, receipts and withdrawals
+- [ERC6160](https://github.com/ethereum/EIPs/pull/6403/files): Multichain token
+
+
 
 ## Week 04/2023 - Monday, January 22th to Sunday, January 29th
 
