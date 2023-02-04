@@ -130,8 +130,7 @@ _Historic_
 
 > Codeslaw is a code search engine for verified contracts on ethereum and beyond 
 > to help developers find and learn from verified and live contracts.
-> Verified  contracts come from the following sources:
-> 1) Etherscan, 2) Tin Tin's Contract Sanctuary, 3) Sourcify
+> Verified  contracts come from the following sources: (1) Etherscan, (2) Tin Tin's Contract Sanctuary, (3) Sourcify
 
 - web @ <https://www.codeslaw.app>
 
